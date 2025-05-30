@@ -1,0 +1,10 @@
+{
+  "titulo": "test",
+  "autor": "test",
+  "descripcion": "test",
+  "categoria": "Romance",
+  "etiquetas": [
+    "aventura"
+  ],
+  "traductor": "test"
+}
