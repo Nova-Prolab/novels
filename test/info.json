@@ -1,0 +1,10 @@
+{
+  "titulo": "Test",
+  "autor": "Test",
+  "descripcion": "Esto\\n\\nEs un\\n\\nTest",
+  "categoria": "Romance",
+  "etiquetas": [
+    "aventura"
+  ],
+  "traductor": "test"
+}
