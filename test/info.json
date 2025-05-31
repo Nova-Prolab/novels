@@ -1,0 +1,12 @@
+{
+  "titulo": "Test",
+  "autor": "Test",
+  "descripcion": "Test",
+  "categoria": "Romance",
+  "etiquetas": [
+    "aventura"
+  ],
+  "traductor": "Test",
+  "creatorId": "mbbj618btq9r5",
+  "ageRating": "pg"
+}
