@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "title": "¡Mantenimiento Programado!",
+  "message": "Realizaremos una actualización el próximo sábado. El sitio podría estar lento por unos momentos.",
+  "link": "https://discord.gg/zQzV4ekTVV",
+  "icon": "AlertTriangle",
+  "dismissible": true,
+  "durationSeconds": null,
+  "style": {
+    "background": "linear-gradient(to right, hsl(var(--primary)), hsl(var(--accent)))",
+    "color": "hsl(var(--primary-foreground))",
+    "borderColor": "hsl(var(--primary))"
+  }
+}
