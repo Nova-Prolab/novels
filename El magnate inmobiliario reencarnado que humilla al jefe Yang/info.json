@@ -4,8 +4,14 @@
   "coverImageUrl": "https://i.imgur.com/bcx3HhQ.jpeg",
   "ageRating": "mature",
   "fecha_lanzamiento": "2025-04-30",
-  "etiquetas": ["destacado", "harén", "belleza"],
+  "etiquetas": [
+    "destacado",
+    "harén",
+    "belleza"
+  ],
   "categoria": "Romance Urbano",
   "autor": "La sonrisa del Buda reclinado",
-  "traductor": "KingNovels"
+  "traductor": "KingNovels",
+  "status": "ongoing",
+  "rating_platform": 5
 }
