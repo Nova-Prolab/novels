@@ -5,7 +5,16 @@
     "content": "J",
     "timestamp": 1751834698587,
     "likes": 9,
-    "replies": []
+    "replies": [
+      {
+        "id": "1751836620602-8ue0m31",
+        "name": "Lector Anónimo",
+        "content": "hola",
+        "timestamp": 1751836620602,
+        "likes": 0,
+        "replies": []
+      }
+    ]
   },
   {
     "id": "1751825342796-367gef0",
