@@ -5,7 +5,7 @@
     "content": "test",
     "timestamp": 1751843687358,
     "avatarUrl": "https://i.imgur.com/JwGSnCv.jpeg",
-    "likes": 0,
+    "likes": 100,
     "replies": []
   },
   {
@@ -14,7 +14,7 @@
     "content": "test",
     "timestamp": 1751843681647,
     "avatarUrl": "https://i.imgur.com/JwGSnCv.jpeg",
-    "likes": 1,
+    "likes": 26189,
     "replies": []
   },
   {
@@ -23,7 +23,7 @@
     "content": "test",
     "timestamp": 1751843672173,
     "avatarUrl": "https://i.imgur.com/JwGSnCv.jpeg",
-    "likes": 1,
+    "likes": 2222,
     "replies": [
       {
         "id": "1751843698919-x2vjy5h",
