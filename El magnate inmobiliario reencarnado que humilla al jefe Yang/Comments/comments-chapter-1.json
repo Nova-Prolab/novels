@@ -6,7 +6,16 @@
     "timestamp": 1751886794785,
     "avatarUrl": "https://i.imgur.com/JwGSnCv.jpeg",
     "likes": 1,
-    "replies": []
+    "replies": [
+      {
+        "id": "1755997566478-hpuhepr",
+        "name": "Lector Anónimo",
+        "content": "Xd",
+        "timestamp": 1755997566478,
+        "likes": 0,
+        "replies": []
+      }
+    ]
   },
   {
     "id": "1751843687358-nrrpf16",
